@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Member_Amenity"
+    android:orientation="vertical">
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="Amenity booked"
+     android:textSize="24dp"
+     android:textColor="@color/color2"
+     android:textStyle="bold"
+     android:fontFamily="serif"
+     android:gravity="center"
+     android:layout_marginTop="10dp"
+
+
+     />
+    <ListView
+        android:id="@+id/lv_memamenity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

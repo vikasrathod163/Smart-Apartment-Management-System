@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">E_Society</string>
+    <string-array name="Amenities">
+        <item>Choose Amenity</item>
+        <item> Hall </item>
+        <item> Swimming Pool </item>
+    </string-array>
+    <string-array name="Time_slot">
+        <item>Choose Time</item>
+        <item>10AM to 12PM</item>
+        <item>12PM to 2PM</item>
+        <item>2PM to 4PM</item>
+        <item>4PM to 6PM</item>
+        <item>6PM to 8PM</item>
+        <item>8PM to 10PM</item>
+
+    </string-array>
+</resources>
